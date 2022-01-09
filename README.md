@@ -1,1 +1,1 @@
-# MDA_HW2
+# NTHU_MDA_PageRank
